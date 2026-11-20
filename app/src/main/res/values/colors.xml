@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="blue">#4169E1</color>
+    <color name="purple">#BF40BF</color>
+    <color name="plum">#673147</color>
+    <color name="eggplant">#483248</color>
+    <color name="grape">#6F2DA8</color>
 </resources>

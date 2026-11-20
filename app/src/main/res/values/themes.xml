@@ -6,4 +6,10 @@
     </style>
 
     <style name="Theme.MyCalculator" parent="Base.Theme.MyCalculator" />
+
+    <!-- Button Colors -->
+    <style name="Button.Pink" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@color/pink</item>
+    </style>
+
 </resources>
